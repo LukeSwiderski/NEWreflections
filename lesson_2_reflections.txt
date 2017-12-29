@@ -8,4 +8,10 @@ The staging area is different in that it is an intermediary between the working 
 
 How can you use the staging area to make sure you have one commit per logical change?
 
-I can use the staging area to make sure I have one commit per logical change by checking to see if anything is left behind when I commit one change. If there is still a file in the staging area, it might be useful to commit that change as well. 
+I can use the staging area to make sure I have one commit per logical change by checking to see if anything is left behind when I commit one change. If there is still a file in the staging area, it might be useful to commit that change as well.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Some situations when branches would be helpful would be trying changes in an experimental version of your code, a translated language, or different version of something like an easy-mode.
