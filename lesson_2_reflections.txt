@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 When I initiate a repository, I am basically starting git in that directory, so I can start making commits.   I need to do it so that my cpu is prepared to make commits, otherwise it wouldn't.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is different in that it is an intermediary between the working directory and the repository.  It is valuable because it forces you to think about what files you are about to commit.
