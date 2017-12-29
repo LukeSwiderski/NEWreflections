@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When I initiate a repository, I am basically starting git in that directory, so I can start making commits.   I need to do it so that my cpu is prepared to make commits, otherwise it wouldn't.

@@ -1,0 +1,26 @@
+Reflection Lesson 1
+
+using Terminal, I used a diff command to compare two files of code.  The - showed lines that were in the old version while + showed a line that had been changed.  I was able to easily spot differences in the code without reviewing each line manually.
+
+
+Having access to the entire history of a file will make me a better programmer in the long run because if I delete some code or make changes that I wish I hadn't, I can easily look at my old files to see how they were before the changes, and or copy paste the old code into my current file.
+
+The pros of manually choosing when to create a commit are that you can pick a point that makes logical sense.  Rather than a file auto-committing for in an arbitrary point that could be in the middle of a line of code you are typing.
+
+The cons are that you might not be disciplined enough to remember to commit files yourself at reasonable points.
+
+I think some version control systems allow you to commit multiple files at once because those files are related.
+
+You can use the history of a file, but using the commands "git log" and "git diff"
+
+git log will show you all the commit ids
+
+git diff will show you the changes between 2 given ids
+
+if you set up the color, it will be very easy to see the changes,
+
+How might using version control make you more confident to make changes that could break something?
+
+I can confidently make changes that might break something because I can always revert to my last commit and undo whatever has caused the damage.
+
+Now that I have my workstation set up, what do I want to use Git for?  I want to use git to control the versions of the personal portfolio webpage I am creating  
