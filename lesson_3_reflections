@@ -1,0 +1,7 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+I would want to use a remore repository when I'm working from a different computer, or if I'm working with someone else on a project.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Because someone else might be working on your repository and you would receive changes that you aren't ready for.
