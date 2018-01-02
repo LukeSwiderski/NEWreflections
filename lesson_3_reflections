@@ -16,4 +16,8 @@ So you know where you left off in case someone worked on your repo while you wer
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
-You would have to send files via email and describe what lines are different.  It would be easier in that you didn't have to learn git or github.  It would be harder because there would be more steps involved, and a lot less tools available to compare the files.  
+You would have to send files via email and describe what lines are different.  It would be easier in that you didn't have to learn git or github.  It would be harder because there would be more steps involved, and a lot less tools available to compare the files.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Making changes in a separate branch allows you the freedom to make mistakes that wont affect the master.  Maing changes to the master has the benefit of not having to merge anything.  
